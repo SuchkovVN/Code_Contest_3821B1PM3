@@ -1,0 +1,3 @@
+C:/Users/Professional/Desktop/MyRep/Contest/build/CMakeFiles/Test.dir
+C:/Users/Professional/Desktop/MyRep/Contest/build/CMakeFiles/ALL_BUILD.dir
+C:/Users/Professional/Desktop/MyRep/Contest/build/CMakeFiles/ZERO_CHECK.dir

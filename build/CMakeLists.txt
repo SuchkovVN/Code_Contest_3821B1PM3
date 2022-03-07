@@ -17,7 +17,7 @@ endif()
 #add_subdirectory(vector) #Добавляем директорию с под-CMakeList-ом, и выполняем под-CMakeList
 #add_subdirectory(vectorlib)
 
-file(GLOB hdrs "${CMAKE_CURRENT_SOURCE_DIR}/../src/*.h*") #Добавляем в переменную hdrs все файлы с расширением .h
+file(GLOB hdrs "${CMAKE_CURRENT_SOURCE_DIR}/../include/*.h*") #Добавляем в переменную hdrs все файлы с расширением .h
 file(GLOB srcs "${CMAKE_CURRENT_SOURCE_DIR}/../src/*.cpp") #Добавляем в переменную srcs все файлы с расширением .cpp
 
 #include_directories(lib1)

@@ -1,16 +1,27 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <Project ToolsVersion="16.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
   <ItemGroup>
-    <ClCompile Include="C:\Users\Professional\Desktop\MyRep\Contest\src\main.cpp">
+    <ClCompile Include="C:\Users\Professional\Desktop\MyRep\Code_Contest_3821B1PM3\src\TVector.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Professional\Desktop\MyRep\Code_Contest_3821B1PM3\src\main.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>
   <ItemGroup>
-    <CustomBuild Include="C:\Users\Professional\Desktop\MyRep\Contest\build\CMakeLists.txt" />
+    <ClInclude Include="C:\Users\Professional\Desktop\MyRep\Code_Contest_3821B1PM3\include\TVector.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
+    <CustomBuild Include="C:\Users\Professional\Desktop\MyRep\Code_Contest_3821B1PM3\build\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{1BDF21BB-1F89-3CC0-9A53-702213EFCF49}</UniqueIdentifier>
+    </Filter>
     <Filter Include="Source Files">
-      <UniqueIdentifier>{85FE227F-1E59-3AF8-B3B1-0FA5141BEC6F}</UniqueIdentifier>
+      <UniqueIdentifier>{C2614A4D-F4A3-3619-A541-E16201A19126}</UniqueIdentifier>
     </Filter>
   </ItemGroup>
 </Project>

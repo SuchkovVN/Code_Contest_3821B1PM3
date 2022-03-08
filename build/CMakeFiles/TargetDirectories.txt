@@ -1,3 +1,3 @@
-C:/Users/Professional/Desktop/MyRep/Code_Contest_3821B1PM3/build/CMakeFiles/Test.dir
-C:/Users/Professional/Desktop/MyRep/Code_Contest_3821B1PM3/build/CMakeFiles/ALL_BUILD.dir
-C:/Users/Professional/Desktop/MyRep/Code_Contest_3821B1PM3/build/CMakeFiles/ZERO_CHECK.dir
+C:/Users/Professional/Desktop/MyRep/Code_Contest_3821B1PM3/build/CMakeFiles/DefApp.dir
+C:/Users/Professional/Desktop/MyRep/Code_Contest_3821B1PM3/build/CMakeFiles/edit_cache.dir
+C:/Users/Professional/Desktop/MyRep/Code_Contest_3821B1PM3/build/CMakeFiles/rebuild_cache.dir

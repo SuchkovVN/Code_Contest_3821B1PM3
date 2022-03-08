@@ -1,0 +1,22 @@
+[
+{
+  "directory": "C:/Users/Professional/Desktop/MyRep/Code_Contest_3821B1PM3/build",
+  "command": "C:\\MinGW\\bin\\mingw32-g++.exe  @CMakeFiles/DefApp.dir/includes_CXX.rsp -O3 -DNDEBUG -o CMakeFiles\\DefApp.dir\\src\\main.cpp.obj -c C:\\Users\\Professional\\Desktop\\MyRep\\Code_Contest_3821B1PM3\\src\\main.cpp",
+  "file": "C:/Users/Professional/Desktop/MyRep/Code_Contest_3821B1PM3/src/main.cpp"
+},
+{
+  "directory": "C:/Users/Professional/Desktop/MyRep/Code_Contest_3821B1PM3/build",
+  "command": "C:\\MinGW\\bin\\mingw32-g++.exe  @CMakeFiles/DefApp.dir/includes_CXX.rsp -O3 -DNDEBUG -o CMakeFiles\\DefApp.dir\\src\\pugixml.cpp.obj -c C:\\Users\\Professional\\Desktop\\MyRep\\Code_Contest_3821B1PM3\\src\\pugixml.cpp",
+  "file": "C:/Users/Professional/Desktop/MyRep/Code_Contest_3821B1PM3/src/pugixml.cpp"
+},
+{
+  "directory": "C:/Users/Professional/Desktop/MyRep/Code_Contest_3821B1PM3/build",
+  "command": "C:\\MinGW\\bin\\mingw32-g++.exe  @CMakeFiles/DefApp.dir/includes_CXX.rsp -O3 -DNDEBUG -o CMakeFiles\\DefApp.dir\\src\\TVector.cpp.obj -c C:\\Users\\Professional\\Desktop\\MyRep\\Code_Contest_3821B1PM3\\src\\TVector.cpp",
+  "file": "C:/Users/Professional/Desktop/MyRep/Code_Contest_3821B1PM3/src/TVector.cpp"
+},
+{
+  "directory": "C:/Users/Professional/Desktop/MyRep/Code_Contest_3821B1PM3/build",
+  "command": "C:\\MinGW\\bin\\mingw32-g++.exe  @CMakeFiles/DefApp.dir/includes_CXX.rsp -O3 -DNDEBUG -o CMakeFiles\\DefApp.dir\\src\\xmlread.cpp.obj -c C:\\Users\\Professional\\Desktop\\MyRep\\Code_Contest_3821B1PM3\\src\\xmlread.cpp",
+  "file": "C:/Users/Professional/Desktop/MyRep/Code_Contest_3821B1PM3/src/xmlread.cpp"
+}
+]

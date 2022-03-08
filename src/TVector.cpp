@@ -33,29 +33,29 @@ void TVector::MultipleScalar(double _scalar) {
   y *= _scalar;
 }
 
-void TVector::operator=(TVector &_vector) {
+void TVector::operator=(TVector _vector) {
   this->x = _vector.GetVectorX();
   this->y = _vector.GetVectorY();
 }
 
-void TVector::operator+=(TVector &_vector) {
+void TVector::operator+=(TVector _vector) {
   this->x += _vector.GetVectorX();
   this->y += _vector.GetVectorY();
 }
 
-void TVector::operator-=(TVector &_vector) {
+void TVector::operator-=(TVector _vector) {
   this->x -= _vector.GetVectorX();
   this->y -= _vector.GetVectorY();
 }
 
-TVector TVector::operator+(TVector &_vector) {
+TVector TVector::operator+(TVector _vector) {
   TVector temp;
   temp = *this;
   temp += _vector;
   return temp;
 }
 
-TVector TVector::operator*(double &_scalar) {
+TVector TVector::operator*(double _scalar) {
   TVector temp;
   temp = *this;
   temp.MultipleScalar(_scalar);
@@ -69,7 +69,7 @@ TVector TVector::operator-() {
   return temp;
 }
 
-TVector TVector::operator-(TVector &_vector) {
+TVector TVector::operator-(TVector _vector) {
   TVector temp;
   temp = *this;
   temp += -_vector;

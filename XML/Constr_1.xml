@@ -1,18 +1,12 @@
 <?xml version= "1.0" encoding= "UTF-8"?>
 <construction> 
-	<graph vertQuantity = "5">
-		1: 2 5
-		2: 1 3
-		3: 2 4
-		4: 3 5
-		5: 4 1
-	</graph>
-	<coord>
+	<points>
 		empty
-	</coord>
-	<beams>
-		empty
-	</beams>
+	</points>
+	<segments>
+		empty 
+	</segments>
+	
 
 
 

@@ -12,10 +12,12 @@ set(SOURCE
 	src/pugixml.cpp
 	src/TVector.cpp
 	src/xmlread.cpp
+	src/TConstruct.cpp
 )
 set(HEADERS 
 	include/pugixml.hpp
 	include/TVector.h
+	include/TConstruct.hpp
 )
 
 include_directories(include)
